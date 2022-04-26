@@ -8,7 +8,6 @@
 body{
     font-family: "Anek Tamil", sans-serif;
     font-weight: 200;
-    background-color: var(--color-dark);
     color: var(--color-light);
     letter-spacing: 2px;
 }
@@ -36,4 +35,9 @@ body{
 
 #second{
     background: var(--color-light);
+}
+
+#imgCubos{
+    display: block;
+    margin: 450px;
 }
