@@ -1,0 +1,39 @@
+:root{
+    --color-orange: #ff6e56;
+    --color-purple: #2a0050;
+    --color-light: #ffffff;
+    --color-dark: #000000;
+}
+
+body{
+    font-family: "Anek Tamil", sans-serif;
+    font-weight: 200;
+    background-color: var(--color-dark);
+    color: var(--color-light);
+    letter-spacing: 2px;
+}
+
+.nav-link{
+    margin-left: 2px;
+}
+
+.btn-primary{
+    background-color: var(--color-orange);
+    font-size: 15px;
+    margin-left: 190px;
+    margin-top: 20px;
+}
+
+.container{
+
+    margin-right: -600px;
+    padding: 70px;
+}
+
+#first{
+    background: linear-gradient(112.07deg, #323576 7.5%, #9400DA 109.15%);
+}
+
+#second{
+    background: var(--color-light);
+}
