@@ -10,6 +10,7 @@ body{
     font-weight: 200;
     color: var(--color-light);
     letter-spacing: 2px;
+    margin: auto;
 }
 
 .nav-link{
@@ -19,7 +20,7 @@ body{
 .btn-primary{
     background-color: var(--color-orange);
     font-size: 15px;
-    margin-left: 190px;
+    margin-left: 145px;
     margin-top: 20px;
 }
 
@@ -40,4 +41,39 @@ body{
 #imgCubos{
     display: block;
     margin: 450px;
+}
+
+#titulo_2{
+    text-align: center;
+}
+
+#imgCuboMorado{
+    width: 50%;
+    margin-top: -400px;
+    margin-left: -300px;
+}
+
+#imgCuboNaranja{
+    width: 50%;
+    margin-top: -400px;
+    margin-left: 100px;
+}
+
+.anuncio{
+    color: var(--color-purple);
+    margin-left: 160px;
+}
+
+#textoDescripcion{
+    text-align: right;
+    margin-right: 600px;
+    margin-top: -80px;
+}
+
+#checkbox_blue {
+    color: blue;
+    display: block;
+    margin: 60px;
+    margin-left: 800px;
+    margin-bottom: 10px;
 }
