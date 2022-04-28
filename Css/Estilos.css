@@ -23,7 +23,6 @@ body{
     margin-left: 145px;
     margin-top: 20px;
 }
-
 .container{
 
     margin-right: -600px;
@@ -41,10 +40,12 @@ body{
 #imgCubos{
     display: block;
     margin: 450px;
+    margin-bottom: 200px;
 }
 
 #titulo_2{
     text-align: center;
+    margin-top: 100px;
 }
 
 #imgCuboMorado{
@@ -74,6 +75,61 @@ body{
     color: blue;
     display: block;
     margin: 60px;
-    margin-left: 800px;
+    margin-left: 750px;
     margin-bottom: 10px;
+}
+
+.parrafo_check{
+    margin: 60px;
+}
+
+#parrafo_1{
+    margin-left: 800px;
+    margin-top: -183px;
+}
+
+#parrafo_2{
+    margin-left: 800px;
+    margin-top: -5px;
+}
+
+#parrafo_3{
+    margin-left: 800px;
+    margin-top: -10px;
+}
+
+.divisionGrupo{
+    position: absolute;
+    width: 86px;
+    height: 0px;
+    left: 840px;
+    top: 620px;
+    border: 3px solid #FF6E56;
+}
+
+#divisionSegunda{
+    position: absolute;
+    width: 86px;
+    height: 0px;
+    left: 160px;
+    top: 1480px;
+    border: 3px solid #FF6E56;
+}
+
+.final2{
+    text-align: center;
+    margin-top: 100px;
+    margin-left: -100px;
+}
+
+.final2 h2{
+    color: var(--color-dark);
+    font-size: medium;
+    margin-left: 500px;
+}
+
+#fondo3{
+    margin: auto;
+    width: 100%;
+    margin-top: 200px;
 }
