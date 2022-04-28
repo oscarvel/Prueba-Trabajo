@@ -160,4 +160,162 @@ body{
     margin: 20px;
 }
 
-#
+#parrafo_4_1{
+    text-align: justify;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 290px;
+}
+
+#parrafo_4_2 {
+    text-align: justify;
+    width: 400px;
+    margin-left: 800px;
+    margin-top: -120px;
+}
+
+#parrafo_4_3 {
+    text-align: justify;
+    width: 400px;
+    margin-left: 1400px;
+    margin-top: -120px;
+}
+
+.logo{
+    width: 2%;
+    display: inline-block;
+}
+
+#logoCaracol{
+    margin-top: 90px;
+    margin-left: 150px;
+}
+
+#logoFinanciera{
+    margin-top: 90px;
+    margin-left: 610px;
+}
+
+#logoTrebol {
+    margin-top: 90px;
+    margin-left: 560px;
+}
+
+#logoWhatsapp {
+    width: 3%;
+    margin-top: -1770px;
+    margin-left: 1800px;
+}
+
+#tituloCaracol{
+    margin-top: -70px; 
+    margin-left: 220px;
+}
+
+#parrafoCaracol{
+    color: var(--color-dark);
+    font-size: small;
+    margin-left: 220px;
+    margin-top: -17px;
+}
+
+#tituloFinanciera {
+    margin-top: -50px;
+    margin-left: 880px;
+}
+
+#parrafoFinanciera {
+    color: var(--color-dark);
+    font-size: small;
+    margin-left: 880px;
+    margin-top: -17px;
+}
+
+#tituloTrebol {
+    margin-top: -62px;
+    margin-left: 1480px;
+}
+
+#parrafoTrebol {
+    color: var(--color-dark);
+    font-size: small;
+    margin-left: 1480px;
+    margin-top: -17px;
+}
+
+#divisionCuarta {
+    position: absolute;
+    width: 86px;
+    height: 0px;
+    left: 900px;
+    top: 3500px;
+    border: 3px solid #FF6E56;
+}
+
+#titulo_4{
+    text-align: center;
+    margin-top: 400px;
+}
+
+#parrafoFourth{
+    color: var(--color-dark);
+    text-align: center;
+    font-size: larger;
+    margin-top: 100px;
+}
+
+.indicativos{
+    color: #40DB9D;
+    font-size: 70px;
+}
+
+#primerIndicativo{
+    margin-top: 140px;
+    margin-left: 360px;
+}
+
+#segundoIndicativo {
+    margin-top: -100px;
+    margin-left: 870px;
+}
+
+#tercerIndicativo {
+    margin-top: -100px;
+    margin-left: 1350px;
+}
+
+.parrafoIndicativo{
+    color: var(--color-dark);
+    text-align: center;
+    font-size: larger;
+    margin-top: 100px;
+}
+
+#parrafoIndicativo_1{
+    text-align: justify;
+    width: 400px;
+    margin-left: 250px;
+    margin-top: 90px;
+}
+
+#parrafoIndicativo_2 {
+    text-align: justify;
+    width: 400px;
+    margin-left: 750px;
+    margin-top: -100px;
+}
+
+
+#parrafoIndicativo_3 {
+    text-align: justify;
+    width: 400px;
+    margin-left: 1250px;
+    margin-top: -100px;
+}
+/*Footer*/
+
+footer{
+    color: var(--color-dark);
+}
+
+
